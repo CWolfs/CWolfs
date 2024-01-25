@@ -19,7 +19,7 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 - [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod
 - [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them
 
-### Languages
+### 💻 Languages 💻
 
 I don't limit myself to specific languages or frameworks so I tend to pick a lot up as I go. Below are languages and frameworks I've used for at least one sizable project within a recent timeframe.
 
