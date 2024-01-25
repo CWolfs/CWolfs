@@ -1,18 +1,18 @@
-### Hey there 👋
+### 👋 Hey there 👋
 
 I'm Richard and I design and develop 'things'.
 
-I've been developing for over 16 years so worked as a backend developer, frontend developer, fullstack and games developer. You'll often see me making mods and open source tools for games too.
+I've been developing for over 16 years so worked as a backend developer, frontend developer, fullstack and games developer. You'll often see me making mods and open source tools for games too. I'm a problem solver.
 
-### Portfolio
+### 🌐 Portfolio 🌐
 
 Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures and write up of some of the projects I've done.
 
-### More about me
+### 👉 About Me 👈
 
-🔭 I’m currently working on various BattleTech mods and open source tools
+🔭 I’m currently working on various business ideas, open source tools and BattleTech mods
 
-📫 Where to find me: [Email](mailto:richard@fractalrift.com) | [Website](http://www.richardgriffiths.dev) | [Youtube](https://www.youtube.com/channel/UCQmU-QT91QnXPPnNQ9ywpOQ) | [Twitter](https://twitter.com/CWolf/) | [Mastodon](https://mastodon.gamedev.place/@cwolf) | [LinkedIn](https://www.linkedin.com/in/richard-griffiths-436b7a19/)
+📫 Find me: [Email](mailto:richard@fractalrift.com) | [Website](http://www.richardgriffiths.dev) | [Youtube](https://www.youtube.com/channel/UCQmU-QT91QnXPPnNQ9ywpOQ) | [Twitter](https://twitter.com/CWolf/) | [Mastodon](https://mastodon.gamedev.place/@cwolf) | [LinkedIn](https://www.linkedin.com/in/richard-griffiths-436b7a19/)
 
 ### ⚡ Impressive things ⚡
 
