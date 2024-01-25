@@ -8,7 +8,7 @@ You'll often see me making mods and open source tools for games too.
 
 ### Portfolio
 
-Check out [my portfolio]([http://www.richardgriffiths.dev) to see some pictures and write up of some of the projects I've done.
+Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures and write up of some of the projects I've done.
 
 ### More about me
 
