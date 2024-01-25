@@ -22,7 +22,7 @@ See [my portfolio](http://www.richardgriffiths.dev) for many more interesting pr
 
 - [Mission Control](https://www.missioncontrolmod.com/) - A large BattleTech mod that expands on many aspects of the game. A core mod in the community. Used by all the major modpacks (RogueTech, BattleTech: Advanced, BEX and others).
 
-- [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod. This involved years of work to slowl piece together the mission format and inject extensive user interface into the game to allow for an editor flow with validation.
+- [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod. This involved years of work to slowly piece together the mission format and inject extensive user interface into the game to allow for an editor flow with validation.
 
 - [React-Native-Keychain Contributions](https://github.com/CWolfs/react-native-keychain) - Contributed to React-Native-Keychain to add support for a new form of RSA padding (OAEP) & fix Android KeyStore unlock timeout issues related to biometrics
 
