@@ -2,9 +2,7 @@
 
 I'm Richard and I design and develop 'things'.
 
-I've been developing for over 16 years so worked as a backend developer, frontend developer, fullstack and games developer.
-
-You'll often see me making mods and open source tools for games too.
+I've been developing for over 16 years so worked as a backend developer, frontend developer, fullstack and games developer. You'll often see me making mods and open source tools for games too.
 
 ### Portfolio
 
@@ -16,7 +14,7 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 📫 Where to find me: [Email](mailto:richard@fractalrift.com) | [Website](http://www.richardgriffiths.dev) | [Youtube](https://www.youtube.com/channel/UCQmU-QT91QnXPPnNQ9ywpOQ) | [Twitter](https://twitter.com/CWolf/) | [Mastodon](https://mastodon.gamedev.place/@cwolf) | [LinkedIn](https://www.linkedin.com/in/richard-griffiths-436b7a19/)
 
-⚡ Impressive things
+### ⚡ Impressive things ⚡
 
 - [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod
 - [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them
