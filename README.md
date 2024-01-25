@@ -23,5 +23,6 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 I don't limit myself to specific languages or frameworks so I tend to pick a lot up as I go. Below are languages and frameworks I've used for at least one sizable project within a recent timeframe.
 
-Languages: Typescript, Javascript, C#, C++, Lua, C++
-Frameworks: React, React Native, NextJS, Laravel
+**Languages:** Typescript, Javascript, C#, C++, Lua, C++
+
+**Frameworks:** React, React Native, NextJS, Laravel
