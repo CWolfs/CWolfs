@@ -14,7 +14,7 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 📫 Find me: [Email](mailto:richard@fractalrift.com) | [Website](http://www.richardgriffiths.dev) | [Youtube](https://www.youtube.com/channel/UCQmU-QT91QnXPPnNQ9ywpOQ) | [Twitter](https://twitter.com/CWolf/) | [Mastodon](https://mastodon.gamedev.place/@cwolf) | [LinkedIn](https://www.linkedin.com/in/richard-griffiths-436b7a19/)
 
-### ⚡ Impressive things ⚡
+### ⚡ Interesting Things ⚡
 
 - [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod. This involved years of work to slowl piece together the mission format and inject extensive user interface into the game to allow for an editor flow with validation.
 
