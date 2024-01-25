@@ -2,11 +2,11 @@
 
 I'm Richard. I design and develop 'cool things'.
 
-I've been developing for over 16 years so worked as a backend developer, frontend developer, fullstack and games developer. You'll often see me making new business ideas, open source tooling or game mods. I'm a problem solver.
+I've been developing for over 16 years so I've worked as a backend, frontend, fullstack and games developer. You'll often see me making new business ideas, open source tooling or game mods. I'm a problem solver.
 
 ### 🌐 Portfolio 🌐
 
-Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures and write up of some of the projects I've done.
+Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures and write ups of some of the freelance contract work and projects I've done.
 
 ### 👉 More About Me 👈
 
@@ -16,7 +16,7 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 ### ⚡ Interesting Things ⚡
 
-See [my portfolio](http://www.richardgriffiths.dev) for many more interesting projects but here are some interesting projects hosted on github.
+See [my portfolio](http://www.richardgriffiths.dev) for many more interesting projects but here are some that are hosted on github.
 
 - [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them. The only way for modders to be able to create any conversation of this type.
 
