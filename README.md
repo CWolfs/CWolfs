@@ -10,7 +10,7 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 ### 👉 More About Me 👈
 
-🔭 I’m currently working on various business ideas, open source tools and BattleTech mods
+🔭 I’m currently working on various business ideas, open source tools and [BattleTech game](https://www.paradoxinteractive.com/games/battletech/about) mods
 
 📫 Find me: [Email](mailto:richard@fractalrift.com) | [Website](http://www.richardgriffiths.dev) | [Youtube](https://www.youtube.com/channel/UCQmU-QT91QnXPPnNQ9ywpOQ) | [Twitter](https://twitter.com/CWolf/) | [Mastodon](https://mastodon.gamedev.place/@cwolf) | [LinkedIn](https://www.linkedin.com/in/richard-griffiths-436b7a19/)
 
@@ -18,11 +18,11 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 See [my portfolio](http://www.richardgriffiths.dev) for many more interesting projects but here are some that are hosted on github.
 
-- [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for [BattleTech game](https://www.paradoxinteractive.com/games/battletech/about) and created a nice-to-use tool for creating/editing them. The only way for modders to be able to create any conversation of this type.
+- [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them. The only way for modders to be able to create any conversation of this type.
 
-- [Mission Control](https://www.missioncontrolmod.com/) - A large [BattleTech game](https://www.paradoxinteractive.com/games/battletech/about) mod that expands on many aspects of the game. A core mod in the community. Used by all the major modpacks (RogueTech, BattleTech: Advanced, BEX and others).
+- [Mission Control](https://www.missioncontrolmod.com/) - A large BattleTech mod that expands on many aspects of the game. A core mod in the community. Used by all the major modpacks (RogueTech, BattleTech: Advanced, BEX and others).
 
-- [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for [BattleTech game](https://www.paradoxinteractive.com/games/battletech/about) as an in-game mod. This involved years of work to slowl piece together the mission format and inject extensive user interface into the game to allow for an editor flow with validation.
+- [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod. This involved years of work to slowl piece together the mission format and inject extensive user interface into the game to allow for an editor flow with validation.
 
 - [React-Native-Keychain Contributions](https://github.com/CWolfs/react-native-keychain) - Contributed to React-Native-Keychain to add support for a new form of RSA padding (OAEP) & fix Android KeyStore unlock timeout issues related to biometrics
 
