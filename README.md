@@ -32,4 +32,6 @@ I don't limit myself to specific languages or frameworks so I tend to pick up a 
 
 **Languages:** Typescript, Javascript, C#, C++, Lua, C++
 
-**Frameworks:** React, React Native, NextJS, Laravel
+**Frameworks:** React, React Native, NextJS, Node, Laravel
+
+Visit my portfolio and CV for full breakdown. Enjoy looking through my projects! 👋
