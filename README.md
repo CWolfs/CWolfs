@@ -16,6 +16,8 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 ### ⚡ Interesting Things ⚡
 
+See [my portfolio](http://www.richardgriffiths.dev)for many more interesting projects but here are some interesting projects hosted on github.
+
 - [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them. The only way for modders to be able to create any conversation of this type.
 
 - [Mission Control](https://www.missioncontrolmod.com/) - A large BattleTech mod that expands on many aspects of the game. A core mod in the community. Used by all the major modpacks (RogueTech, BattleTech: Advanced, BEX and others).
