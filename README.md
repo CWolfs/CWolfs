@@ -16,7 +16,7 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 ### ⚡ Interesting Things ⚡
 
-See [my portfolio](http://www.richardgriffiths.dev) for many more interesting projects but here are some that are hosted on github.
+See [my portfolio](http://www.richardgriffiths.dev) for many more interesting projects but here are some that are hosted on GitHub.
 
 - [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them. The only way for modders to be able to create any conversation of this type.
 
