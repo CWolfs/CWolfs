@@ -8,7 +8,7 @@ I've been developing for over 16 years so worked as a backend developer, fronten
 
 Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures and write up of some of the projects I've done.
 
-### 👉 About Me 👈
+### 👉 More About Me 👈
 
 🔭 I’m currently working on various business ideas, open source tools and BattleTech mods
 
