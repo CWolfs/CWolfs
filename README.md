@@ -14,6 +14,9 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 🔭 I’m currently working on various BattleTech mods and open source tools
 
-📫 How to reach me: [Email](mailto:richard@fractalrift.com) | [Website](http://www.richardgriffiths.dev)
+📫 Where to find me: [Email](mailto:richard@fractalrift.com) | [Website](http://www.richardgriffiths.dev) | [Youtube](https://www.youtube.com/channel/UCQmU-QT91QnXPPnNQ9ywpOQ) | [Twitter](https://twitter.com/CWolf/) | [Mastodon](https://mastodon.gamedev.place/@cwolf) | [LinkedIn](https://www.linkedin.com/in/richard-griffiths-436b7a19/)
 
-⚡ Fun fact: ...
+⚡ Impressive things
+
+- [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod
+- [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them
