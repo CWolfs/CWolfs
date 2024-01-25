@@ -28,7 +28,7 @@ See [my portfolio](http://www.richardgriffiths.dev) for many more interesting pr
 
 ### 💻 Languages 💻
 
-I don't limit myself to specific languages or frameworks so I tend to pick a lot up as I go. Below are languages and frameworks I've used for at least one sizable project within a recent timeframe.
+I don't limit myself to specific languages or frameworks so I tend to pick up a lot as I go. Below are languages and frameworks I've used for at least one sizable project within a recent timeframe.
 
 **Languages:** Typescript, Javascript, C#, C++, Lua, C++
 
