@@ -16,8 +16,9 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 ### ⚡ Impressive things ⚡
 
-- [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod
-- [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them
+- [Mission Control Designer](https://www.youtube.com/watch?v=xtYc59cSXeI) - Built a mission editor for BattleTech as an in-game mod. This involved years of work to slowl piece together the mission format and inject extensive user interface into the game to allow for an editor flow with validation.
+
+- [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them. The only way for modders to be able to create any conversation of this type.
 
 ### 💻 Languages 💻
 
