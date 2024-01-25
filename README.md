@@ -12,8 +12,8 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 ### More about me
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on various BattleTech mods and open source tools
 
-📫 How to reach me: ...
+📫 How to reach me: [Email](mailto:richard@fractalrift.com) | [Website](http://www.richardgriffiths.dev)
 
 ⚡ Fun fact: ...
