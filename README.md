@@ -20,7 +20,7 @@ Check out [my portfolio](http://www.richardgriffiths.dev) to see some pictures a
 
 - [ConverseTek](https://github.com/CWolfs/ConverseTek) - Reverse engineered binary conversation files for BattleTech and created a nice-to-use tool for creating/editing them. The only way for modders to be able to create any conversation of this type.
 
-- [React-Native-Keychain Contribution](https://github.com/CWolfs/react-native-keychain) - Contributed to React-Native-Keychain to add support for a new form of RSA padding (OAEP) & fix Android KeyStore unlock timeout issues related to biometrics
+- [React-Native-Keychain Contributions](https://github.com/CWolfs/react-native-keychain) - Contributed to React-Native-Keychain to add support for a new form of RSA padding (OAEP) & fix Android KeyStore unlock timeout issues related to biometrics
 
 ### 💻 Languages 💻
 
