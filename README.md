@@ -34,4 +34,4 @@ I don't limit myself to specific languages or frameworks so I tend to pick up a 
 
 **Frameworks:** React, React Native, NextJS, Node, Laravel
 
-Visit [my portfolio](http://www.richardgriffiths.dev) and [CV](https://www.richardgriffiths.dev/static/media/Richard_Griffiths_CV.c32788406d29d1a7e43f.pdf) for a full breakdown. Enjoy looking through my projects! 👋
+Visit [my portfolio](http://www.richardgriffiths.dev) and [CV](https://www.richardgriffiths.dev/static/media/Richard_Griffiths_CV.a3258e2fd4a48a87ff50.pdf) for a full breakdown. Enjoy looking through my projects! 👋
